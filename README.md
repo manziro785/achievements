@@ -47,10 +47,9 @@ AI-платформа для подготовки к экзаменам в фо�
 
 Сертификаты, дипломы, скриншоты интерфейсов — см. ниже:
 
-![Сертификат USAID Bootcamp](./assets/usaid-bootcamp.jpg)  
-![Приз за хакатон](./assets/hackathon-prize.jpg)  
-![Anonimo UI](./assets/anonimo-ui.jpg)  
-![ORTmaster тесты](./assets/ortmaster-preview.jpg)
+![Сертификат USAID Bootcamp](https://www.linkedin.com/posts/tilekmat-azhygulov-8655392a9_activity-7354848163456835584-5Jrq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpLwI0BsYCMgQKQwb8ApDAGvJgWVPn6lVk)  
+![Приз за хакатон](https://www.linkedin.com/posts/tilekmat-azhygulov-8655392a9_activity-7354847621343068160-CXxI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpLwI0BsYCMgQKQwb8ApDAGvJgWVPn6lVk) 
+![Мой Evropass CV]([./assets/anonimo-ui.jpg](https://www.linkedin.com/posts/tilekmat-azhygulov-8655392a9_europass-cv-activity-7300798810719506433-zQtB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpLwI0BsYCMgQKQwb8ApDAGvJgWVPn6lVk))  
 
 ---
 
